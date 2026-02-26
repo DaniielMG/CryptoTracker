@@ -1,6 +1,3 @@
-Here is the complete, professional README.md for your Antigravity project, written entirely in English and formatted specifically for GitHub.
-
-Markdown
 
 #  Real-Time Crypto Monitoring & Predictive Engine
 
